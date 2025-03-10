@@ -14,3 +14,7 @@ bikeshare.py
 chicago.csv 
 new_york_city.csv 
 washington.csv 
+
+### Example explenation
+after running the file bikeshare.py, the following statment "Hello! Let\'s explore some US bikeshare data!'" will occur
+and then the question "Would you like to see data for chicago, new york city, or washington?" will be prompted to the user
